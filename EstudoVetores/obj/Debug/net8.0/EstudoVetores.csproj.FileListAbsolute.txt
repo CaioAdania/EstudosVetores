@@ -12,3 +12,4 @@ C:\Users\caioa\Documents\Caio\VsCommunity\EstudoVetores\EstudoVetores\obj\Debug\
 C:\Users\caioa\Documents\Caio\VsCommunity\EstudoVetores\EstudoVetores\obj\Debug\net8.0\EstudoVetores.pdb
 C:\Users\caioa\Documents\Caio\VsCommunity\EstudoVetores\EstudoVetores\obj\Debug\net8.0\EstudoVetores.genruntimeconfig.cache
 C:\Users\caioa\Documents\Caio\VsCommunity\EstudoVetores\EstudoVetores\obj\Debug\net8.0\ref\EstudoVetores.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudoVetores\EstudoVetores\obj\Debug\net8.0\EstudoVetores.sourcelink.json

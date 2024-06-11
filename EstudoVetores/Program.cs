@@ -1,4 +1,5 @@
 ﻿
+using EstudoVetores.Entities;
 using System.Globalization;
 
 namespace EstudoVetores
@@ -7,24 +8,31 @@ namespace EstudoVetores
     {
         static void Main(string[] args)
         {
+            Console.Write("Entre com a Quantidade de Produtos: ");
             int n = int.Parse(Console.ReadLine());
 
-            double[] vect = new double[n];
+            Product[] vect = new Product[n];
 
-            for(int i = 0; i < n; i++)
+            for (int i = 0; i < n; i++)
             {
-                vect[i] = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                Console.Write("Nome do Produto: ");
+                string nome = Console.ReadLine();
+                Console.Write("Preço do Produto: ");
+                double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+                vect[i] = new Product(nome, preco);
             }
 
             double sum = 0.0;
             for(int i = 0; i < n; i++)
             {
-                sum += vect[i];
+                sum += vect[i].Preco; //colocar o .Preco, para saber qual parametro usar, pois tambem temos o Nome
             }
 
             double avg = sum / n;
 
-            Console.WriteLine("Average heigth: " + avg.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine();
+            Console.WriteLine("Average Price: " + avg.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }

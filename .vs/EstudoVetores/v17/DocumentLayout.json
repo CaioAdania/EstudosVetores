@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\caioa\\Documents\\Caio\\VsCommunity\\EstudoVetores\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CBA49F6E-389A-403C-87C6-3D2748D7E98F}|EstudoVetores\\EstudoVetores.csproj|c:\\users\\caioa\\documents\\caio\\vscommunity\\estudovetores\\estudovetores\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA49F6E-389A-403C-87C6-3D2748D7E98F}|EstudoVetores\\EstudoVetores.csproj|solutionrelative:estudovetores\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CBA49F6E-389A-403C-87C6-3D2748D7E98F}|EstudoVetores\\EstudoVetores.csproj|c:\\users\\caioa\\documents\\caio\\vscommunity\\estudovetores\\estudovetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBA49F6E-389A-403C-87C6-3D2748D7E98F}|EstudoVetores\\EstudoVetores.csproj|solutionrelative:estudovetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\caioa\\Documents\\Caio\\VsCommunity\\EstudoVetores\\EstudoVetores\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "EstudoVetores\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\caioa\\Documents\\Caio\\VsCommunity\\EstudoVetores\\EstudoVetores\\Entities\\Product.cs",
+              "RelativeToolTip": "EstudoVetores\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:52:09.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\caioa\\Documents\\Caio\\VsCommunity\\EstudoVetores\\EstudoVetores\\Program.cs",
               "RelativeDocumentMoniker": "EstudoVetores\\Program.cs",
               "ToolTip": "C:\\Users\\caioa\\Documents\\Caio\\VsCommunity\\EstudoVetores\\EstudoVetores\\Program.cs",
               "RelativeToolTip": "EstudoVetores\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T14:30:53.838Z",
               "EditorCaption": ""
