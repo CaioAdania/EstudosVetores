@@ -1,0 +1,14 @@
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudoVetores\EstudoVetores\bin\Debug\net8.0\EstudoVetores.exe
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudoVetores\EstudoVetores\bin\Debug\net8.0\EstudoVetores.deps.json
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudoVetores\EstudoVetores\bin\Debug\net8.0\EstudoVetores.runtimeconfig.json
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudoVetores\EstudoVetores\bin\Debug\net8.0\EstudoVetores.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudoVetores\EstudoVetores\bin\Debug\net8.0\EstudoVetores.pdb
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudoVetores\EstudoVetores\obj\Debug\net8.0\EstudoVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudoVetores\EstudoVetores\obj\Debug\net8.0\EstudoVetores.AssemblyInfoInputs.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudoVetores\EstudoVetores\obj\Debug\net8.0\EstudoVetores.AssemblyInfo.cs
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudoVetores\EstudoVetores\obj\Debug\net8.0\EstudoVetores.csproj.CoreCompileInputs.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudoVetores\EstudoVetores\obj\Debug\net8.0\EstudoVetores.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudoVetores\EstudoVetores\obj\Debug\net8.0\refint\EstudoVetores.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudoVetores\EstudoVetores\obj\Debug\net8.0\EstudoVetores.pdb
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudoVetores\EstudoVetores\obj\Debug\net8.0\EstudoVetores.genruntimeconfig.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudoVetores\EstudoVetores\obj\Debug\net8.0\ref\EstudoVetores.dll
